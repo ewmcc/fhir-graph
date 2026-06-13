@@ -308,7 +308,5 @@ MATCH (n)-[r]->(m)
 RETURN n, r, m
 ```
 
-Click any node to inspect its properties, or click any relationship arrow to see which FHIR reference it represents.
-
 ![Patient Graph](images/patient-graph.png)
 
